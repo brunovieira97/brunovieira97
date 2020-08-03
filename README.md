@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 My name is Bruno Vieira and I'm a developer.
 
-<br/>
-
 - 💻 **I work with:**
   - Java (Spring Boot)
   - JavaScript (Angular, Node)
