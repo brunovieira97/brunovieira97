@@ -20,15 +20,20 @@ Here are some ideas to get you started:
 My name is Bruno Vieira and I'm a developer.
 
 - 💻 **I work with:**
-  - Java (Spring Boot)
-  - JavaScript (Angular, Node)
+  - Java - Spring Boot, Cloud, microservices
+  - TypeScript - Angular
   - SQL databases
+  - Docker
+  - Azure DevOps, Jenkins
+
+- 🌱 **I'm \[interested in\] learning:**
+  - Tests
+  - Spring WebFlux
+  - Kubernetes
+  - React
   
 - 📫 **Mail me:** bruno.vieira97@outlook.com
   
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunovieira97&show_icons=true&include_all_commits=true&hide_title=true" alt="Bruno's GitHub stats" />
-
 <br/>
 <br/>
 
