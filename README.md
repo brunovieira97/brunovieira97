@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 My name is Bruno Vieira and I'm a developer.
 
 - 💻 **I work with:**
-  - Java - Spring Boot, Cloud, microservices
-  - TypeScript - Angular
-  - SQL databases
+  - Java
   - Docker
-  - Azure DevOps, Jenkins
+  - Linux environments
+  - Shell Script
+  - SQL databases
+  - Azure DevOps
 
 - 🌱 **I'm \[interested in\] learning:**
   - Tests
