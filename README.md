@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💻 **I work with:**
   - Java
   - Kotlin
-  - Spring WebFlux
+  - Spring Framework
   - Kafka
   - MongoDB
  
